@@ -1,6 +1,6 @@
 # Deep Learning Course
 Deep Learning Course HSE.
-Included 3 Kagglee competitions.
+Included 3 Kaggle competitions.
 
 ## Sentiment analysis
 Top 6% 
